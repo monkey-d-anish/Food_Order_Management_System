@@ -10,3 +10,7 @@ C:\Users\Sarad\Desktop\vb.net\New project\Food_Order_Management_System\Food_Orde
 C:\Users\Sarad\Desktop\vb.net\New project\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.exe
 C:\Users\Sarad\Desktop\vb.net\New project\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.xml
 C:\Users\Sarad\Desktop\vb.net\New project\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.pdb
+C:\Users\Sarad\Desktop\vb.net\New project\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.Form2.resources
+C:\Users\Sarad\Desktop\vb.net\New project\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.Admin_form.resources
+C:\Users\Sarad\Desktop\vb.net\New project\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.User_form.resources
+C:\Users\Sarad\Desktop\vb.net\New project\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.Dashboard.resources
