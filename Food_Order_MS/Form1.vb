@@ -3,7 +3,7 @@ Imports System.Data.SqlClient
 Imports System.Windows.Forms.VisualStyles.VisualStyleElement
 Imports Microsoft.VisualBasic.ApplicationServices
 
-Public Class Form1
+Public Class LoginForm
     Dim connect As New SqlConnection(" Data Source = LAPTOP-796R91OO\MYSQL; Initial Catalog=Form_db ; Integrated Security = True")
     Private Sub PictureBox1_Click(sender As Object, e As EventArgs) Handles PictureBox1.Click
 
@@ -23,7 +23,7 @@ Public Class Form1
 
     Private Sub Label6_Click(sender As Object, e As EventArgs) Handles Label6.Click
         Me.Hide()
-        Form2.Show()
+        Register_form.Show()
 
     End Sub
 

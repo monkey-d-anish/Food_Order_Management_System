@@ -79,10 +79,10 @@
     <Compile Include="Admin_form.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Dashboard.Designer.vb">
-      <DependentUpon>Dashboard.vb</DependentUpon>
+    <Compile Include="Food Items.Designer.vb">
+      <DependentUpon>Food Items.vb</DependentUpon>
     </Compile>
-    <Compile Include="Dashboard.vb">
+    <Compile Include="Food Items.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.vb">
@@ -98,10 +98,17 @@
     <Compile Include="Form2.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Items_Form.Designer.vb">
+      <DependentUpon>Items_Form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Items_Form.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
       <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <Compile Include="My Project\Resources.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -112,6 +119,24 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Order_Form.Designer.vb">
+      <DependentUpon>Order_Form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Order_Form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Table_Form.Designer.vb">
+      <DependentUpon>Table_Form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Table_Form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction_Form.Designer.vb">
+      <DependentUpon>Transaction_Form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction_Form.vb">
+      <SubType>Form</SubType>
     </Compile>
     <Compile Include="User_form.Designer.vb">
       <DependentUpon>User_form.vb</DependentUpon>
@@ -124,8 +149,8 @@
     <EmbeddedResource Include="Admin_form.resx">
       <DependentUpon>Admin_form.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Dashboard.resx">
-      <DependentUpon>Dashboard.vb</DependentUpon>
+    <EmbeddedResource Include="Food Items.resx">
+      <DependentUpon>Food Items.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.vb</DependentUpon>
@@ -133,11 +158,23 @@
     <EmbeddedResource Include="Form2.resx">
       <DependentUpon>Form2.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Items_Form.resx">
+      <DependentUpon>Items_Form.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order_Form.resx">
+      <DependentUpon>Order_Form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Table_Form.resx">
+      <DependentUpon>Table_Form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction_Form.resx">
+      <DependentUpon>Transaction_Form.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="User_form.resx">
       <DependentUpon>User_form.vb</DependentUpon>

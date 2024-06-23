@@ -1,5 +1,5 @@
 ﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
-Partial Class Dashboard
+Partial Class Order_Form
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
@@ -24,14 +24,14 @@ Partial Class Dashboard
     Private Sub InitializeComponent()
         Me.SuspendLayout()
         '
-        'Dashboard
+        'Order_Form
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(1111, 558)
+        Me.ClientSize = New System.Drawing.Size(800, 450)
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
-        Me.Name = "Dashboard"
-        Me.Text = "Dashboard"
+        Me.Name = "Order_Form"
+        Me.Text = "Order_Form"
         Me.ResumeLayout(False)
 
     End Sub

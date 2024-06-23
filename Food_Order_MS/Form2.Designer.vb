@@ -1,9 +1,9 @@
-﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
-Partial Class Form2
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
+Partial Class Register_form
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
-    <System.Diagnostics.DebuggerNonUserCode()> _
+    <System.Diagnostics.DebuggerNonUserCode()>
     Protected Overrides Sub Dispose(ByVal disposing As Boolean)
         Try
             If disposing AndAlso components IsNot Nothing Then
@@ -20,7 +20,7 @@ Partial Class Form2
     'NOTE: The following procedure is required by the Windows Form Designer
     'It can be modified using the Windows Form Designer.  
     'Do not modify it using the code editor.
-    <System.Diagnostics.DebuggerStepThrough()> _
+    <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Me.components = New System.ComponentModel.Container()
         Me.Label1 = New System.Windows.Forms.Label()
@@ -30,13 +30,13 @@ Partial Class Form2
         Me.Label5 = New System.Windows.Forms.Label()
         Me.Label6 = New System.Windows.Forms.Label()
         Me.Label7 = New System.Windows.Forms.Label()
-        Me.TextBox1 = New System.Windows.Forms.TextBox()
-        Me.TextBox2 = New System.Windows.Forms.TextBox()
-        Me.TextBox3 = New System.Windows.Forms.TextBox()
-        Me.TextBox4 = New System.Windows.Forms.TextBox()
-        Me.TextBox5 = New System.Windows.Forms.TextBox()
-        Me.TextBox6 = New System.Windows.Forms.TextBox()
-        Me.Button1 = New System.Windows.Forms.Button()
+        Me.LnameTb = New System.Windows.Forms.TextBox()
+        Me.FnameTb = New System.Windows.Forms.TextBox()
+        Me.PhoneTb = New System.Windows.Forms.TextBox()
+        Me.CpasswordTb = New System.Windows.Forms.TextBox()
+        Me.PasswordTb = New System.Windows.Forms.TextBox()
+        Me.EmailTb = New System.Windows.Forms.TextBox()
+        Me.SignupBtn = New System.Windows.Forms.Button()
         Me.Label8 = New System.Windows.Forms.Label()
         Me.Label9 = New System.Windows.Forms.Label()
         Me.Button2 = New System.Windows.Forms.Button()
@@ -124,71 +124,71 @@ Partial Class Form2
         Me.Label7.TabIndex = 6
         Me.Label7.Text = "Confirm Password"
         '
-        'TextBox1
+        'LnameTb
         '
-        Me.TextBox1.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox1.Location = New System.Drawing.Point(375, 153)
-        Me.TextBox1.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
-        Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.Size = New System.Drawing.Size(205, 27)
-        Me.TextBox1.TabIndex = 7
+        Me.LnameTb.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.LnameTb.Location = New System.Drawing.Point(375, 153)
+        Me.LnameTb.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
+        Me.LnameTb.Name = "LnameTb"
+        Me.LnameTb.Size = New System.Drawing.Size(205, 27)
+        Me.LnameTb.TabIndex = 7
         '
-        'TextBox2
+        'FnameTb
         '
-        Me.TextBox2.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox2.Location = New System.Drawing.Point(61, 153)
-        Me.TextBox2.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
-        Me.TextBox2.Name = "TextBox2"
-        Me.TextBox2.Size = New System.Drawing.Size(205, 27)
-        Me.TextBox2.TabIndex = 8
+        Me.FnameTb.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.FnameTb.Location = New System.Drawing.Point(61, 153)
+        Me.FnameTb.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
+        Me.FnameTb.Name = "FnameTb"
+        Me.FnameTb.Size = New System.Drawing.Size(205, 27)
+        Me.FnameTb.TabIndex = 8
         '
-        'TextBox3
+        'PhoneTb
         '
-        Me.TextBox3.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox3.Location = New System.Drawing.Point(375, 270)
-        Me.TextBox3.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
-        Me.TextBox3.Name = "TextBox3"
-        Me.TextBox3.Size = New System.Drawing.Size(205, 27)
-        Me.TextBox3.TabIndex = 9
+        Me.PhoneTb.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.PhoneTb.Location = New System.Drawing.Point(375, 270)
+        Me.PhoneTb.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
+        Me.PhoneTb.Name = "PhoneTb"
+        Me.PhoneTb.Size = New System.Drawing.Size(205, 27)
+        Me.PhoneTb.TabIndex = 9
         '
-        'TextBox4
+        'CpasswordTb
         '
-        Me.TextBox4.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox4.Location = New System.Drawing.Point(375, 382)
-        Me.TextBox4.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
-        Me.TextBox4.Name = "TextBox4"
-        Me.TextBox4.Size = New System.Drawing.Size(205, 27)
-        Me.TextBox4.TabIndex = 10
+        Me.CpasswordTb.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.CpasswordTb.Location = New System.Drawing.Point(375, 382)
+        Me.CpasswordTb.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
+        Me.CpasswordTb.Name = "CpasswordTb"
+        Me.CpasswordTb.Size = New System.Drawing.Size(205, 27)
+        Me.CpasswordTb.TabIndex = 10
         '
-        'TextBox5
+        'PasswordTb
         '
-        Me.TextBox5.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox5.Location = New System.Drawing.Point(61, 382)
-        Me.TextBox5.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
-        Me.TextBox5.Name = "TextBox5"
-        Me.TextBox5.Size = New System.Drawing.Size(205, 27)
-        Me.TextBox5.TabIndex = 11
+        Me.PasswordTb.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.PasswordTb.Location = New System.Drawing.Point(61, 382)
+        Me.PasswordTb.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
+        Me.PasswordTb.Name = "PasswordTb"
+        Me.PasswordTb.Size = New System.Drawing.Size(205, 27)
+        Me.PasswordTb.TabIndex = 11
         '
-        'TextBox6
+        'EmailTb
         '
-        Me.TextBox6.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox6.Location = New System.Drawing.Point(61, 270)
-        Me.TextBox6.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
-        Me.TextBox6.Name = "TextBox6"
-        Me.TextBox6.Size = New System.Drawing.Size(205, 27)
-        Me.TextBox6.TabIndex = 12
+        Me.EmailTb.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.EmailTb.Location = New System.Drawing.Point(61, 270)
+        Me.EmailTb.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
+        Me.EmailTb.Name = "EmailTb"
+        Me.EmailTb.Size = New System.Drawing.Size(205, 27)
+        Me.EmailTb.TabIndex = 12
         '
-        'Button1
+        'SignupBtn
         '
-        Me.Button1.BackColor = System.Drawing.Color.Yellow
-        Me.Button1.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button1.Location = New System.Drawing.Point(61, 443)
-        Me.Button1.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
-        Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(592, 46)
-        Me.Button1.TabIndex = 13
-        Me.Button1.Text = "Signup"
-        Me.Button1.UseVisualStyleBackColor = False
+        Me.SignupBtn.BackColor = System.Drawing.Color.Yellow
+        Me.SignupBtn.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.SignupBtn.Location = New System.Drawing.Point(61, 443)
+        Me.SignupBtn.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
+        Me.SignupBtn.Name = "SignupBtn"
+        Me.SignupBtn.Size = New System.Drawing.Size(592, 46)
+        Me.SignupBtn.TabIndex = 13
+        Me.SignupBtn.Text = "Signup"
+        Me.SignupBtn.UseVisualStyleBackColor = False
         '
         'Label8
         '
@@ -245,7 +245,7 @@ Partial Class Form2
         '
         Me.ErrorProvider6.ContainerControl = Me
         '
-        'Form2
+        'Register_form
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
@@ -253,13 +253,13 @@ Partial Class Form2
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Label9)
         Me.Controls.Add(Me.Label8)
-        Me.Controls.Add(Me.Button1)
-        Me.Controls.Add(Me.TextBox6)
-        Me.Controls.Add(Me.TextBox5)
-        Me.Controls.Add(Me.TextBox4)
-        Me.Controls.Add(Me.TextBox3)
-        Me.Controls.Add(Me.TextBox2)
-        Me.Controls.Add(Me.TextBox1)
+        Me.Controls.Add(Me.SignupBtn)
+        Me.Controls.Add(Me.EmailTb)
+        Me.Controls.Add(Me.PasswordTb)
+        Me.Controls.Add(Me.CpasswordTb)
+        Me.Controls.Add(Me.PhoneTb)
+        Me.Controls.Add(Me.FnameTb)
+        Me.Controls.Add(Me.LnameTb)
         Me.Controls.Add(Me.Label7)
         Me.Controls.Add(Me.Label6)
         Me.Controls.Add(Me.Label5)
@@ -269,7 +269,7 @@ Partial Class Form2
         Me.Controls.Add(Me.Label1)
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
         Me.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
-        Me.Name = "Form2"
+        Me.Name = "Register_form"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Form2"
         CType(Me.ErrorProvider1, System.ComponentModel.ISupportInitialize).EndInit()
@@ -290,13 +290,13 @@ Partial Class Form2
     Friend WithEvents Label5 As Label
     Friend WithEvents Label6 As Label
     Friend WithEvents Label7 As Label
-    Friend WithEvents TextBox1 As TextBox
-    Friend WithEvents TextBox2 As TextBox
-    Friend WithEvents TextBox3 As TextBox
-    Friend WithEvents TextBox4 As TextBox
-    Friend WithEvents TextBox5 As TextBox
-    Friend WithEvents TextBox6 As TextBox
-    Friend WithEvents Button1 As Button
+    Friend WithEvents LnameTb As TextBox
+    Friend WithEvents FnameTb As TextBox
+    Friend WithEvents PhoneTb As TextBox
+    Friend WithEvents CpasswordTb As TextBox
+    Friend WithEvents PasswordTb As TextBox
+    Friend WithEvents EmailTb As TextBox
+    Friend WithEvents SignupBtn As Button
     Friend WithEvents Label8 As Label
     Friend WithEvents Label9 As Label
     Friend WithEvents Button2 As Button
