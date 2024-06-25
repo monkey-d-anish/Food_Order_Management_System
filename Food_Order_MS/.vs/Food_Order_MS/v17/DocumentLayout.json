@@ -3,76 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7713A945-311A-4F7C-BF24-F46E01C64DB6}|Food_Order_MS.vbproj|c:\\users\\sarad\\desktop\\vb.net\\new project\\food_order_management_system\\food_order_ms\\admin_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{7713A945-311A-4F7C-BF24-F46E01C64DB6}|Food_Order_MS.vbproj|solutionrelative:admin_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{7713A945-311A-4F7C-BF24-F46E01C64DB6}|Food_Order_MS.vbproj|C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\food items.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{7713A945-311A-4F7C-BF24-F46E01C64DB6}|Food_Order_MS.vbproj|solutionrelative:food items.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7713A945-311A-4F7C-BF24-F46E01C64DB6}|Food_Order_MS.vbproj|c:\\users\\sarad\\desktop\\vb.net\\new project\\food_order_management_system\\food_order_ms\\items_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{7713A945-311A-4F7C-BF24-F46E01C64DB6}|Food_Order_MS.vbproj|solutionrelative:items_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{7713A945-311A-4F7C-BF24-F46E01C64DB6}|Food_Order_MS.vbproj|c:\\users\\sarad\\desktop\\vb.net\\new project\\food_order_management_system\\food_order_ms\\stable_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{7713A945-311A-4F7C-BF24-F46E01C64DB6}|Food_Order_MS.vbproj|solutionrelative:stable_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7713A945-311A-4F7C-BF24-F46E01C64DB6}|Food_Order_MS.vbproj|c:\\users\\sarad\\desktop\\vb.net\\new project\\food_order_management_system\\food_order_ms\\transaction_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{7713A945-311A-4F7C-BF24-F46E01C64DB6}|Food_Order_MS.vbproj|solutionrelative:transaction_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{7713A945-311A-4F7C-BF24-F46E01C64DB6}|Food_Order_MS.vbproj|c:\\users\\sarad\\desktop\\vb.net\\new project\\food_order_management_system\\food_order_ms\\user_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{7713A945-311A-4F7C-BF24-F46E01C64DB6}|Food_Order_MS.vbproj|solutionrelative:user_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Food_Order_MS||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7713A945-311A-4F7C-BF24-F46E01C64DB6}|Food_Order_MS.vbproj|c:\\users\\sarad\\desktop\\vb.net\\new project\\food_order_management_system\\food_order_ms\\items_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{7713A945-311A-4F7C-BF24-F46E01C64DB6}|Food_Order_MS.vbproj|solutionrelative:items_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7713A945-311A-4F7C-BF24-F46E01C64DB6}|Food_Order_MS.vbproj|c:\\users\\sarad\\desktop\\vb.net\\new project\\food_order_management_system\\food_order_ms\\transaction_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{7713A945-311A-4F7C-BF24-F46E01C64DB6}|Food_Order_MS.vbproj|solutionrelative:transaction_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7713A945-311A-4F7C-BF24-F46E01C64DB6}|Food_Order_MS.vbproj|C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\food items.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{7713A945-311A-4F7C-BF24-F46E01C64DB6}|Food_Order_MS.vbproj|solutionrelative:food items.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7713A945-311A-4F7C-BF24-F46E01C64DB6}|Food_Order_MS.vbproj|c:\\users\\sarad\\desktop\\vb.net\\new project\\food_order_management_system\\food_order_ms\\table_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{7713A945-311A-4F7C-BF24-F46E01C64DB6}|Food_Order_MS.vbproj|solutionrelative:table_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7713A945-311A-4F7C-BF24-F46E01C64DB6}|Food_Order_MS.vbproj|c:\\users\\sarad\\desktop\\vb.net\\new project\\food_order_management_system\\food_order_ms\\table_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{7713A945-311A-4F7C-BF24-F46E01C64DB6}|Food_Order_MS.vbproj|solutionrelative:table_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7713A945-311A-4F7C-BF24-F46E01C64DB6}|Food_Order_MS.vbproj|C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\admin_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{7713A945-311A-4F7C-BF24-F46E01C64DB6}|Food_Order_MS.vbproj|c:\\users\\sarad\\desktop\\vb.net\\new project\\food_order_management_system\\food_order_ms\\admin_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{7713A945-311A-4F7C-BF24-F46E01C64DB6}|Food_Order_MS.vbproj|solutionrelative:admin_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7713A945-311A-4F7C-BF24-F46E01C64DB6}|Food_Order_MS.vbproj|C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{7713A945-311A-4F7C-BF24-F46E01C64DB6}|Food_Order_MS.vbproj|solutionrelative:form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7713A945-311A-4F7C-BF24-F46E01C64DB6}|Food_Order_MS.vbproj|C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\user_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{7713A945-311A-4F7C-BF24-F46E01C64DB6}|Food_Order_MS.vbproj|solutionrelative:user_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7713A945-311A-4F7C-BF24-F46E01C64DB6}|Food_Order_MS.vbproj|C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{7713A945-311A-4F7C-BF24-F46E01C64DB6}|Food_Order_MS.vbproj|solutionrelative:form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7713A945-311A-4F7C-BF24-F46E01C64DB6}|Food_Order_MS.vbproj|C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\user_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{7713A945-311A-4F7C-BF24-F46E01C64DB6}|Food_Order_MS.vbproj|solutionrelative:user_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7713A945-311A-4F7C-BF24-F46E01C64DB6}|Food_Order_MS.vbproj|c:\\users\\sarad\\desktop\\vb.net\\new project\\food_order_management_system\\food_order_ms\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{7713A945-311A-4F7C-BF24-F46E01C64DB6}|Food_Order_MS.vbproj|solutionrelative:my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7713A945-311A-4F7C-BF24-F46E01C64DB6}|Food_Order_MS.vbproj|c:\\users\\sarad\\desktop\\vb.net\\new project\\food_order_management_system\\food_order_ms\\order_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{7713A945-311A-4F7C-BF24-F46E01C64DB6}|Food_Order_MS.vbproj|solutionrelative:order_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7713A945-311A-4F7C-BF24-F46E01C64DB6}|Food_Order_MS.vbproj|C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{7713A945-311A-4F7C-BF24-F46E01C64DB6}|Food_Order_MS.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7713A945-311A-4F7C-BF24-F46E01C64DB6}|Food_Order_MS.vbproj|C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{7713A945-311A-4F7C-BF24-F46E01C64DB6}|Food_Order_MS.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7713A945-311A-4F7C-BF24-F46E01C64DB6}|Food_Order_MS.vbproj|C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\form2.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{7713A945-311A-4F7C-BF24-F46E01C64DB6}|Food_Order_MS.vbproj|solutionrelative:form2.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{7713A945-311A-4F7C-BF24-F46E01C64DB6}|Food_Order_MS.vbproj|c:\\users\\sarad\\desktop\\vb.net\\new project\\food_order_management_system\\food_order_ms\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|8998e48e-b89a-4034-b66e-353d8c1fdc2e"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,22 +36,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Form2.vb",
-              "DocumentMoniker": "C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\Form2.vb",
-              "RelativeDocumentMoniker": "Form2.vb",
-              "ToolTip": "C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\Form2.vb",
-              "RelativeToolTip": "Form2.vb",
-              "ViewState": "AQIAAD4AAAAAAAAAAAAiwGYAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-20T08:05:54.835Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
@@ -109,68 +49,67 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Food_Order_MS",
+              "DocumentMoniker": "C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\Food_Order_MS.vbproj",
+              "RelativeDocumentMoniker": "Food_Order_MS.vbproj",
+              "ToolTip": "C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\Food_Order_MS.vbproj*",
+              "RelativeToolTip": "Food_Order_MS.vbproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-25T09:24:22.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Items_Form.vb [Design]",
               "DocumentMoniker": "C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\Items_Form.vb",
               "RelativeDocumentMoniker": "Items_Form.vb",
               "ToolTip": "C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\Items_Form.vb [Design]",
               "RelativeToolTip": "Items_Form.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-23T04:44:39.455Z",
+              "WhenOpened": "2024-06-25T08:49:06.766Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Items_Form.vb",
-              "DocumentMoniker": "C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\Items_Form.vb",
-              "RelativeDocumentMoniker": "Items_Form.vb",
-              "ToolTip": "C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\Items_Form.vb",
-              "RelativeToolTip": "Items_Form.vb",
-              "ViewState": "AQIAABkAAAAAAAAAAAAQwDoAAAAIAAAA",
+              "DocumentIndex": 5,
+              "Title": "Admin_form.vb",
+              "DocumentMoniker": "C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\Admin_form.vb",
+              "RelativeDocumentMoniker": "Admin_form.vb",
+              "ToolTip": "C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\Admin_form.vb",
+              "RelativeToolTip": "Admin_form.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-23T05:24:27.393Z",
+              "WhenOpened": "2024-06-25T08:43:30.303Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Admin_form.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\Admin_form.vb",
-              "RelativeDocumentMoniker": "Admin_form.vb",
-              "ToolTip": "C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\Admin_form.vb [Design]",
-              "RelativeToolTip": "Admin_form.vb [Design]",
+              "DocumentIndex": 1,
+              "Title": "Stable_form.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\Stable_form.vb",
+              "RelativeDocumentMoniker": "Stable_form.vb",
+              "ToolTip": "C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\Stable_form.vb [Design]",
+              "RelativeToolTip": "Stable_form.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-21T12:42:32.008Z",
+              "WhenOpened": "2024-06-25T08:41:44.09Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Transaction_Form.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\Transaction_Form.vb",
-              "RelativeDocumentMoniker": "Transaction_Form.vb",
-              "ToolTip": "C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\Transaction_Form.vb [Design]",
-              "RelativeToolTip": "Transaction_Form.vb [Design]",
+              "Title": "User_form.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\User_form.vb",
+              "RelativeDocumentMoniker": "User_form.vb",
+              "ToolTip": "C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\User_form.vb [Design]",
+              "RelativeToolTip": "User_form.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-23T05:32:05.395Z",
+              "WhenOpened": "2024-06-25T08:13:11.061Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Transaction_Form.vb",
-              "DocumentMoniker": "C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\Transaction_Form.vb",
-              "RelativeDocumentMoniker": "Transaction_Form.vb",
-              "ToolTip": "C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\Transaction_Form.vb",
-              "RelativeToolTip": "Transaction_Form.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-23T05:36:30.431Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Food Items.vb [Design]",
               "DocumentMoniker": "C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\Food Items.vb",
               "RelativeDocumentMoniker": "Food Items.vb",
@@ -179,144 +118,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-06-22T14:24:33.246Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Table_Form.vb",
-              "DocumentMoniker": "C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\Table_Form.vb",
-              "RelativeDocumentMoniker": "Table_Form.vb",
-              "ToolTip": "C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\Table_Form.vb",
-              "RelativeToolTip": "Table_Form.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-23T06:09:07.707Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Admin_form.vb",
-              "DocumentMoniker": "C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\Admin_form.vb",
-              "RelativeDocumentMoniker": "Admin_form.vb",
-              "ToolTip": "C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\Admin_form.vb",
-              "RelativeToolTip": "Admin_form.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-21T12:51:25.929Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Table_Form.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\Table_Form.vb",
-              "RelativeDocumentMoniker": "Table_Form.vb",
-              "ToolTip": "C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\Table_Form.vb [Design]",
-              "RelativeToolTip": "Table_Form.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-23T05:19:31.211Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Form2.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\Form2.vb",
-              "RelativeDocumentMoniker": "Form2.vb",
-              "ToolTip": "C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\Form2.vb [Design]",
-              "RelativeToolTip": "Form2.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-21T10:27:03.728Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "User_form.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\User_form.vb",
-              "RelativeDocumentMoniker": "User_form.vb",
-              "ToolTip": "C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\User_form.vb [Design]",
-              "RelativeToolTip": "User_form.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-21T12:59:02.752Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "User_form.vb",
-              "DocumentMoniker": "C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\User_form.vb",
-              "RelativeDocumentMoniker": "User_form.vb",
-              "ToolTip": "C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\User_form.vb",
-              "RelativeToolTip": "User_form.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-21T14:15:29.977Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Application.Designer.vb",
-              "DocumentMoniker": "C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\My Project\\Application.Designer.vb",
-              "RelativeDocumentMoniker": "My Project\\Application.Designer.vb",
-              "ToolTip": "C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\My Project\\Application.Designer.vb",
-              "RelativeToolTip": "My Project\\Application.Designer.vb",
-              "ViewState": "AQIAABIAAAAAAAAAAAAiwCIAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-23T04:26:46.179Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Order_Form.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\Order_Form.vb",
-              "RelativeDocumentMoniker": "Order_Form.vb",
-              "ToolTip": "C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\Order_Form.vb [Design]",
-              "RelativeToolTip": "Order_Form.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-23T04:33:19.391Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Form1.vb",
-              "DocumentMoniker": "C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\Form1.vb",
-              "RelativeDocumentMoniker": "Form1.vb",
-              "ToolTip": "C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\Form1.vb",
-              "RelativeToolTip": "Form1.vb",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAiwBoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-19T15:31:32.293Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Form1.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\Form1.vb",
-              "RelativeDocumentMoniker": "Form1.vb",
-              "ToolTip": "C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\Form1.vb [Design]",
-              "RelativeToolTip": "Form1.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-19T10:25:18.681Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Form2.Designer.vb",
-              "DocumentMoniker": "C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\Form2.Designer.vb",
-              "RelativeDocumentMoniker": "Form2.Designer.vb",
-              "ToolTip": "C:\\Users\\Sarad\\Desktop\\vb.net\\New project\\Food_Order_Management_System\\Food_Order_MS\\Form2.Designer.vb",
-              "RelativeToolTip": "Form2.Designer.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-21T04:44:10.515Z",
-              "EditorCaption": ""
             }
           ]
         }

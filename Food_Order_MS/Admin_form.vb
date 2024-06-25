@@ -12,11 +12,15 @@
     End Sub
 
     Private Sub Tabletbn_Click(sender As Object, e As EventArgs) Handles Tabletbn.Click
-        Table_Form.Show()
+        ' Table_Form.Show()
     End Sub
 
     Private Sub Transaction_Click(sender As Object, e As EventArgs) Handles Transaction.Click
         Transaction_Form.Show()
 
+    End Sub
+
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        Application.Exit()
     End Sub
 End Class

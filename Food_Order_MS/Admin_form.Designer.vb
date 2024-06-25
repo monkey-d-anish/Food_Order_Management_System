@@ -219,7 +219,7 @@ Partial Class Admin_form
         '
         Me.Label1.AutoSize = True
         Me.Label1.Font = New System.Drawing.Font("Segoe UI", 10.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label1.Location = New System.Drawing.Point(925, 17)
+        Me.Label1.Location = New System.Drawing.Point(916, 17)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(120, 23)
         Me.Label1.TabIndex = 1

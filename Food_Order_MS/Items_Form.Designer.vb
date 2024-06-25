@@ -24,8 +24,8 @@ Partial Class Items_Form
     Private Sub InitializeComponent()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Items_Form))
         Me.Panel1 = New System.Windows.Forms.Panel()
-        Me.Button1 = New System.Windows.Forms.Button()
         Me.Label2 = New System.Windows.Forms.Label()
+        Me.Button1 = New System.Windows.Forms.Button()
         Me.PictureBox2 = New System.Windows.Forms.PictureBox()
         Me.Label1 = New System.Windows.Forms.Label()
         Me.Items_DGV = New System.Windows.Forms.DataGridView()
@@ -33,10 +33,6 @@ Partial Class Items_Form
         Me.Label3 = New System.Windows.Forms.Label()
         Me.Label4 = New System.Windows.Forms.Label()
         Me.Label5 = New System.Windows.Forms.Label()
-        Me.Label6 = New System.Windows.Forms.Label()
-        Me.Label7 = New System.Windows.Forms.Label()
-        Me.Label8 = New System.Windows.Forms.Label()
-        Me.Label9 = New System.Windows.Forms.Label()
         Me.ItemnameTb = New System.Windows.Forms.TextBox()
         Me.ItemunitTb = New System.Windows.Forms.TextBox()
         Me.ItempriceTb = New System.Windows.Forms.TextBox()
@@ -59,20 +55,8 @@ Partial Class Items_Form
         Me.Panel1.Dock = System.Windows.Forms.DockStyle.Top
         Me.Panel1.Location = New System.Drawing.Point(0, 0)
         Me.Panel1.Name = "Panel1"
-        Me.Panel1.Size = New System.Drawing.Size(1100, 35)
+        Me.Panel1.Size = New System.Drawing.Size(1300, 35)
         Me.Panel1.TabIndex = 0
-        '
-        'Button1
-        '
-        Me.Button1.BackColor = System.Drawing.Color.IndianRed
-        Me.Button1.FlatStyle = System.Windows.Forms.FlatStyle.Popup
-        Me.Button1.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button1.Location = New System.Drawing.Point(1061, 1)
-        Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(36, 31)
-        Me.Button1.TabIndex = 1
-        Me.Button1.Text = "X"
-        Me.Button1.UseVisualStyleBackColor = False
         '
         'Label2
         '
@@ -80,9 +64,21 @@ Partial Class Items_Form
         Me.Label2.Font = New System.Drawing.Font("Segoe UI", 10.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label2.Location = New System.Drawing.Point(3, 0)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(214, 23)
+        Me.Label2.Size = New System.Drawing.Size(341, 29)
         Me.Label2.TabIndex = 3
-        Me.Label2.Text = " Food Order Management "
+        Me.Label2.Text = " Food Order Management System "
+        '
+        'Button1
+        '
+        Me.Button1.BackColor = System.Drawing.Color.IndianRed
+        Me.Button1.FlatStyle = System.Windows.Forms.FlatStyle.Popup
+        Me.Button1.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button1.Location = New System.Drawing.Point(1260, 0)
+        Me.Button1.Name = "Button1"
+        Me.Button1.Size = New System.Drawing.Size(36, 31)
+        Me.Button1.TabIndex = 1
+        Me.Button1.Text = "X"
+        Me.Button1.UseVisualStyleBackColor = False
         '
         'PictureBox2
         '
@@ -112,28 +108,28 @@ Partial Class Items_Form
         Me.Items_DGV.Name = "Items_DGV"
         Me.Items_DGV.RowHeadersWidth = 51
         Me.Items_DGV.RowTemplate.Height = 24
-        Me.Items_DGV.Size = New System.Drawing.Size(614, 610)
+        Me.Items_DGV.Size = New System.Drawing.Size(813, 610)
         Me.Items_DGV.TabIndex = 3
         '
         'Name_lbl
         '
         Me.Name_lbl.AutoSize = True
         Me.Name_lbl.Font = New System.Drawing.Font("Segoe UI", 10.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Name_lbl.Location = New System.Drawing.Point(34, 142)
+        Me.Name_lbl.Location = New System.Drawing.Point(27, 141)
         Me.Name_lbl.Name = "Name_lbl"
-        Me.Name_lbl.Size = New System.Drawing.Size(64, 25)
+        Me.Name_lbl.Size = New System.Drawing.Size(68, 25)
         Me.Name_lbl.TabIndex = 4
-        Me.Name_lbl.Text = "Name "
+        Me.Name_lbl.Text = "Name :"
         '
         'Label3
         '
         Me.Label3.AutoSize = True
         Me.Label3.Font = New System.Drawing.Font("Segoe UI", 10.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label3.Location = New System.Drawing.Point(46, 190)
+        Me.Label3.Location = New System.Drawing.Point(42, 190)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(44, 25)
+        Me.Label3.Size = New System.Drawing.Size(53, 25)
         Me.Label3.TabIndex = 5
-        Me.Label3.Text = "Unit"
+        Me.Label3.Text = "Unit :"
         '
         'Label4
         '
@@ -141,9 +137,9 @@ Partial Class Items_Form
         Me.Label4.Font = New System.Drawing.Font("Segoe UI", 10.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label4.Location = New System.Drawing.Point(42, 231)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(49, 25)
+        Me.Label4.Size = New System.Drawing.Size(58, 25)
         Me.Label4.TabIndex = 6
-        Me.Label4.Text = "Price"
+        Me.Label4.Text = "Price :"
         '
         'Label5
         '
@@ -151,55 +147,15 @@ Partial Class Items_Form
         Me.Label5.Font = New System.Drawing.Font("Segoe UI", 10.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label5.Location = New System.Drawing.Point(7, 284)
         Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(84, 25)
+        Me.Label5.Size = New System.Drawing.Size(93, 25)
         Me.Label5.TabIndex = 7
-        Me.Label5.Text = "Category"
-        '
-        'Label6
-        '
-        Me.Label6.AutoSize = True
-        Me.Label6.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label6.Location = New System.Drawing.Point(87, 145)
-        Me.Label6.Name = "Label6"
-        Me.Label6.Size = New System.Drawing.Size(15, 20)
-        Me.Label6.TabIndex = 8
-        Me.Label6.Text = ":"
-        '
-        'Label7
-        '
-        Me.Label7.AutoSize = True
-        Me.Label7.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label7.Location = New System.Drawing.Point(87, 195)
-        Me.Label7.Name = "Label7"
-        Me.Label7.Size = New System.Drawing.Size(15, 20)
-        Me.Label7.TabIndex = 9
-        Me.Label7.Text = ":"
-        '
-        'Label8
-        '
-        Me.Label8.AutoSize = True
-        Me.Label8.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label8.Location = New System.Drawing.Point(87, 236)
-        Me.Label8.Name = "Label8"
-        Me.Label8.Size = New System.Drawing.Size(15, 20)
-        Me.Label8.TabIndex = 10
-        Me.Label8.Text = ":"
-        '
-        'Label9
-        '
-        Me.Label9.AutoSize = True
-        Me.Label9.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label9.Location = New System.Drawing.Point(87, 288)
-        Me.Label9.Name = "Label9"
-        Me.Label9.Size = New System.Drawing.Size(15, 20)
-        Me.Label9.TabIndex = 11
-        Me.Label9.Text = ":"
+        Me.Label5.Text = "Category :"
         '
         'ItemnameTb
         '
         Me.ItemnameTb.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.ItemnameTb.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.ItemnameTb.Location = New System.Drawing.Point(108, 143)
+        Me.ItemnameTb.Location = New System.Drawing.Point(126, 143)
         Me.ItemnameTb.Name = "ItemnameTb"
         Me.ItemnameTb.Size = New System.Drawing.Size(253, 28)
         Me.ItemnameTb.TabIndex = 12
@@ -208,7 +164,7 @@ Partial Class Items_Form
         '
         Me.ItemunitTb.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.ItemunitTb.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.ItemunitTb.Location = New System.Drawing.Point(108, 195)
+        Me.ItemunitTb.Location = New System.Drawing.Point(126, 191)
         Me.ItemunitTb.Name = "ItemunitTb"
         Me.ItemunitTb.Size = New System.Drawing.Size(253, 28)
         Me.ItemunitTb.TabIndex = 13
@@ -217,7 +173,7 @@ Partial Class Items_Form
         '
         Me.ItempriceTb.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.ItempriceTb.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.ItempriceTb.Location = New System.Drawing.Point(108, 236)
+        Me.ItempriceTb.Location = New System.Drawing.Point(126, 232)
         Me.ItempriceTb.Name = "ItempriceTb"
         Me.ItempriceTb.Size = New System.Drawing.Size(253, 28)
         Me.ItempriceTb.TabIndex = 14
@@ -227,7 +183,7 @@ Partial Class Items_Form
         Me.ItemcategoryCb.FlatStyle = System.Windows.Forms.FlatStyle.System
         Me.ItemcategoryCb.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.ItemcategoryCb.FormattingEnabled = True
-        Me.ItemcategoryCb.Location = New System.Drawing.Point(108, 280)
+        Me.ItemcategoryCb.Location = New System.Drawing.Point(126, 278)
         Me.ItemcategoryCb.Name = "ItemcategoryCb"
         Me.ItemcategoryCb.Size = New System.Drawing.Size(253, 30)
         Me.ItemcategoryCb.TabIndex = 15
@@ -285,7 +241,7 @@ Partial Class Items_Form
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(1100, 700)
+        Me.ClientSize = New System.Drawing.Size(1300, 700)
         Me.Controls.Add(Me.ResetBtn)
         Me.Controls.Add(Me.DeleteBtn)
         Me.Controls.Add(Me.UpdateBtn)
@@ -295,10 +251,6 @@ Partial Class Items_Form
         Me.Controls.Add(Me.ItempriceTb)
         Me.Controls.Add(Me.ItemunitTb)
         Me.Controls.Add(Me.ItemnameTb)
-        Me.Controls.Add(Me.Label9)
-        Me.Controls.Add(Me.Label8)
-        Me.Controls.Add(Me.Label7)
-        Me.Controls.Add(Me.Label6)
         Me.Controls.Add(Me.Label5)
         Me.Controls.Add(Me.Label4)
         Me.Controls.Add(Me.Label3)
@@ -329,10 +281,6 @@ Partial Class Items_Form
     Friend WithEvents Label3 As Label
     Friend WithEvents Label4 As Label
     Friend WithEvents Label5 As Label
-    Friend WithEvents Label6 As Label
-    Friend WithEvents Label7 As Label
-    Friend WithEvents Label8 As Label
-    Friend WithEvents Label9 As Label
     Friend WithEvents ItemnameTb As TextBox
     Friend WithEvents ItemunitTb As TextBox
     Friend WithEvents ItempriceTb As TextBox

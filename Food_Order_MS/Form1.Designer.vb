@@ -136,7 +136,7 @@ Partial Class LoginForm
         'ComboBox1
         '
         Me.ComboBox1.FormattingEnabled = True
-        Me.ComboBox1.Items.AddRange(New Object() {"User", "Admin "})
+        Me.ComboBox1.Items.AddRange(New Object() {"User", "admin"})
         Me.ComboBox1.Location = New System.Drawing.Point(372, 374)
         Me.ComboBox1.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.ComboBox1.Name = "ComboBox1"

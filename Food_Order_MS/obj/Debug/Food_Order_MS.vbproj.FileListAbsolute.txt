@@ -14,7 +14,6 @@ C:\Users\Sarad\Desktop\vb.net\New project\Food_Order_Management_System\Food_Orde
 C:\Users\Sarad\Desktop\vb.net\New project\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.Food_Items.resources
 C:\Users\Sarad\Desktop\vb.net\New project\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.LoginForm.resources
 C:\Users\Sarad\Desktop\vb.net\New project\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.Register_form.resources
-C:\Users\Sarad\Desktop\vb.net\New project\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.Order_Form.resources
 C:\Users\Sarad\Desktop\vb.net\New project\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.Items_Form.resources
-C:\Users\Sarad\Desktop\vb.net\New project\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.Table_Form.resources
 C:\Users\Sarad\Desktop\vb.net\New project\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.Transaction_Form.resources
+C:\Users\Sarad\Desktop\vb.net\New project\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.Stable_form.resources

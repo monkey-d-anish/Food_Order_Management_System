@@ -53,6 +53,9 @@ Public Class LoginForm
     End Sub
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
+        If connect.State = ConnectionState.Open Then connect.Close()
+        connect.Open()
+
         If String.IsNullOrEmpty(User_txt.Text) = True Then
             MessageBox.Show("Please enter the User name to signin ")
         ElseIf String.IsNullOrEmpty(Password_txt.Text) = True Then
@@ -68,16 +71,37 @@ Public Class LoginForm
                 User_form.Show()
             Else
                 MessageBox.Show("Please Enter the correct user name or Password")
+                connect.Close()
                 User_txt.Clear()
                 User_txt.Focus()
                 Password_txt.Clear()
 
             End If
-        ElseIf ComboBox1.Text = "Admin" Then
+        ElseIf ComboBox1.Text = "admin" Then
+            If connect.State = ConnectionState.Open Then connect.Close()
+            connect.Open()
+            Dim comd As New SqlCommand("select * from tbl_adminlogin where First_Name= '" & User_txt.Text & "' and Password = '" & Password_txt.Text & "'", connect)
+            Dim adapt As SqlDataAdapter = New SqlDataAdapter(comd)
+            Dim tabl As DataTable = New DataTable()
+            adapt.Fill(tabl)
+            If (tabl.Rows.Count > 0) Then
+                MessageBox.Show("LOG IN SUCCESSFUL ")
                 Me.Hide()
                 Admin_form.Show()
+                connect.Close()
             Else
-                MessageBox.Show("Please select the User type to continue")
+                MessageBox.Show("Please Enter the correct user name or Password")
+                connect.Close()
+                User_txt.Clear()
+                User_txt.Focus()
+                Password_txt.Clear()
+
+            End If
+
+        Else
+            MessageBox.Show("Please select the User type to continue")
+
         End If
+
     End Sub
 End Class

@@ -107,7 +107,7 @@ Partial Class User_form
         '
         Me.PictureBox5.BackColor = System.Drawing.Color.AliceBlue
         Me.PictureBox5.Image = CType(resources.GetObject("PictureBox5.Image"), System.Drawing.Image)
-        Me.PictureBox5.Location = New System.Drawing.Point(52, 408)
+        Me.PictureBox5.Location = New System.Drawing.Point(52, 377)
         Me.PictureBox5.Name = "PictureBox5"
         Me.PictureBox5.Size = New System.Drawing.Size(42, 44)
         Me.PictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
@@ -118,7 +118,7 @@ Partial Class User_form
         '
         Me.PictureBox4.BackColor = System.Drawing.Color.AliceBlue
         Me.PictureBox4.Image = CType(resources.GetObject("PictureBox4.Image"), System.Drawing.Image)
-        Me.PictureBox4.Location = New System.Drawing.Point(52, 288)
+        Me.PictureBox4.Location = New System.Drawing.Point(52, 277)
         Me.PictureBox4.Name = "PictureBox4"
         Me.PictureBox4.Size = New System.Drawing.Size(42, 44)
         Me.PictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
@@ -129,7 +129,7 @@ Partial Class User_form
         '
         Me.PictureBox3.BackColor = System.Drawing.Color.AliceBlue
         Me.PictureBox3.Image = CType(resources.GetObject("PictureBox3.Image"), System.Drawing.Image)
-        Me.PictureBox3.Location = New System.Drawing.Point(52, 183)
+        Me.PictureBox3.Location = New System.Drawing.Point(52, 173)
         Me.PictureBox3.Name = "PictureBox3"
         Me.PictureBox3.Size = New System.Drawing.Size(42, 44)
         Me.PictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
@@ -139,7 +139,7 @@ Partial Class User_form
         'Button5
         '
         Me.Button5.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button5.Location = New System.Drawing.Point(41, 477)
+        Me.Button5.Location = New System.Drawing.Point(41, 466)
         Me.Button5.Name = "Button5"
         Me.Button5.Size = New System.Drawing.Size(186, 65)
         Me.Button5.TabIndex = 2
@@ -149,7 +149,7 @@ Partial Class User_form
         'Button4
         '
         Me.Button4.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button4.Location = New System.Drawing.Point(41, 397)
+        Me.Button4.Location = New System.Drawing.Point(41, 367)
         Me.Button4.Name = "Button4"
         Me.Button4.Size = New System.Drawing.Size(186, 64)
         Me.Button4.TabIndex = 2
@@ -159,7 +159,7 @@ Partial Class User_form
         'Button3
         '
         Me.Button3.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button3.Location = New System.Drawing.Point(41, 278)
+        Me.Button3.Location = New System.Drawing.Point(41, 268)
         Me.Button3.Name = "Button3"
         Me.Button3.Size = New System.Drawing.Size(186, 64)
         Me.Button3.TabIndex = 2
@@ -169,7 +169,7 @@ Partial Class User_form
         'Button2
         '
         Me.Button2.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button2.Location = New System.Drawing.Point(41, 173)
+        Me.Button2.Location = New System.Drawing.Point(41, 163)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(186, 64)
         Me.Button2.TabIndex = 2
