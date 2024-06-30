@@ -22,5 +22,590 @@ Food_Order_MS
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet.Usp_Get_FoodItemsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet.Usp_Get_FoodItemsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet.Usp_Get_FoodItemsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSetTableAdapters.Usp_Get_FoodItemsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Food_Order_MS.Poject_FOMSDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Food_Order_MS.Poject_FOMSDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Food_Order_MS.Poject_FOMSDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Food_Order_MS.Poject_FOMSDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Food_Order_MS.Poject_FOMSDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Food_Order_MS.Poject_FOMSDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Food_Order_MS.Poject_FOMSDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Food_Order_MS.Poject_FOMSDataSetTableAdapters.TableAdapterManager.UpdateAll(Food_Order_MS.Poject_FOMSDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet1.Usp_Get_TableDataAdminDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet1.Usp_Get_TableDataAdminRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet1.Usp_Get_TableDataAdminRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet1TableAdapters.Usp_Get_TableDataAdminTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Food_Order_MS.Poject_FOMSDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(Food_Order_MS.Poject_FOMSDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Food_Order_MS.Poject_FOMSDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(Food_Order_MS.Poject_FOMSDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Food_Order_MS.Poject_FOMSDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(Food_Order_MS.Poject_FOMSDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Food_Order_MS.Poject_FOMSDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Food_Order_MS.Poject_FOMSDataSet1TableAdapters.TableAdapterManager.UpdateAll(Food_Order_MS.Poject_FOMSDataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet2">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet2.Usp_Get_TablesDataUserDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet2.Usp_Get_TablesDataUserRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet2.Usp_Get_TablesDataUserRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet2TableAdapters.Usp_Get_TablesDataUserTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet2TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Food_Order_MS.Poject_FOMSDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(Food_Order_MS.Poject_FOMSDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Food_Order_MS.Poject_FOMSDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(Food_Order_MS.Poject_FOMSDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Food_Order_MS.Poject_FOMSDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(Food_Order_MS.Poject_FOMSDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Food_Order_MS.Poject_FOMSDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Food_Order_MS.Poject_FOMSDataSet2TableAdapters.TableAdapterManager.UpdateAll(Food_Order_MS.Poject_FOMSDataSet2)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet3">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet3.Usp_Get_TransactionsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet3.Usp_Get_TransactionsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet3.Usp_Get_TransactionsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet3TableAdapters.Usp_Get_TransactionsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet3TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Food_Order_MS.Poject_FOMSDataSet3TableAdapters.TableAdapterManager.UpdateUpdatedRows(Food_Order_MS.Poject_FOMSDataSet3,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Food_Order_MS.Poject_FOMSDataSet3TableAdapters.TableAdapterManager.UpdateInsertedRows(Food_Order_MS.Poject_FOMSDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Food_Order_MS.Poject_FOMSDataSet3TableAdapters.TableAdapterManager.UpdateDeletedRows(Food_Order_MS.Poject_FOMSDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Food_Order_MS.Poject_FOMSDataSet3TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Food_Order_MS.Poject_FOMSDataSet3TableAdapters.TableAdapterManager.UpdateAll(Food_Order_MS.Poject_FOMSDataSet3)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet3TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet3TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet4">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet4.Usp_Get_TransactionsByTableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet4.Usp_Get_TransactionsByTableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet4.Usp_Get_TransactionsByTableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet4TableAdapters.Usp_Get_TransactionsByTableTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet4TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Food_Order_MS.Poject_FOMSDataSet4TableAdapters.TableAdapterManager.UpdateUpdatedRows(Food_Order_MS.Poject_FOMSDataSet4,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Food_Order_MS.Poject_FOMSDataSet4TableAdapters.TableAdapterManager.UpdateInsertedRows(Food_Order_MS.Poject_FOMSDataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Food_Order_MS.Poject_FOMSDataSet4TableAdapters.TableAdapterManager.UpdateDeletedRows(Food_Order_MS.Poject_FOMSDataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Food_Order_MS.Poject_FOMSDataSet4TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Food_Order_MS.Poject_FOMSDataSet4TableAdapters.TableAdapterManager.UpdateAll(Food_Order_MS.Poject_FOMSDataSet4)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet4TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet4TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet5">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet5.Usp_Get_UsersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet5.Usp_Get_UsersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet5.Usp_Get_UsersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet5TableAdapters.Usp_Get_UsersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet5TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Food_Order_MS.Poject_FOMSDataSet5TableAdapters.TableAdapterManager.UpdateUpdatedRows(Food_Order_MS.Poject_FOMSDataSet5,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Food_Order_MS.Poject_FOMSDataSet5TableAdapters.TableAdapterManager.UpdateInsertedRows(Food_Order_MS.Poject_FOMSDataSet5,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Food_Order_MS.Poject_FOMSDataSet5TableAdapters.TableAdapterManager.UpdateDeletedRows(Food_Order_MS.Poject_FOMSDataSet5,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Food_Order_MS.Poject_FOMSDataSet5TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Food_Order_MS.Poject_FOMSDataSet5TableAdapters.TableAdapterManager.UpdateAll(Food_Order_MS.Poject_FOMSDataSet5)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet5TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet5TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet6">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet6.Usp_Get_ItemsCategoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet6.Usp_Get_ItemsCategoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet6.Usp_Get_ItemsCategoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet6TableAdapters.Usp_Get_ItemsCategoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet6TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Food_Order_MS.Poject_FOMSDataSet6TableAdapters.TableAdapterManager.UpdateUpdatedRows(Food_Order_MS.Poject_FOMSDataSet6,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Food_Order_MS.Poject_FOMSDataSet6TableAdapters.TableAdapterManager.UpdateInsertedRows(Food_Order_MS.Poject_FOMSDataSet6,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Food_Order_MS.Poject_FOMSDataSet6TableAdapters.TableAdapterManager.UpdateDeletedRows(Food_Order_MS.Poject_FOMSDataSet6,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Food_Order_MS.Poject_FOMSDataSet6TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Food_Order_MS.Poject_FOMSDataSet6TableAdapters.TableAdapterManager.UpdateAll(Food_Order_MS.Poject_FOMSDataSet6)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet6TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet6TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet7">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet7.Usp_Get_TableCategoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet7.Usp_Get_TableCategoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet7.Usp_Get_TableCategoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet7TableAdapters.Usp_Get_TableCategoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet7TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Food_Order_MS.Poject_FOMSDataSet7TableAdapters.TableAdapterManager.UpdateUpdatedRows(Food_Order_MS.Poject_FOMSDataSet7,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Food_Order_MS.Poject_FOMSDataSet7TableAdapters.TableAdapterManager.UpdateInsertedRows(Food_Order_MS.Poject_FOMSDataSet7,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Food_Order_MS.Poject_FOMSDataSet7TableAdapters.TableAdapterManager.UpdateDeletedRows(Food_Order_MS.Poject_FOMSDataSet7,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Food_Order_MS.Poject_FOMSDataSet7TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Food_Order_MS.Poject_FOMSDataSet7TableAdapters.TableAdapterManager.UpdateAll(Food_Order_MS.Poject_FOMSDataSet7)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet7TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet7TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet8">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet8.Usp_Get_TableCategoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet8.Usp_Get_TableCategoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet8.Usp_Get_TableCategoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet8TableAdapters.Usp_Get_TableCategoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet8TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Food_Order_MS.Poject_FOMSDataSet8TableAdapters.TableAdapterManager.UpdateUpdatedRows(Food_Order_MS.Poject_FOMSDataSet8,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Food_Order_MS.Poject_FOMSDataSet8TableAdapters.TableAdapterManager.UpdateInsertedRows(Food_Order_MS.Poject_FOMSDataSet8,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Food_Order_MS.Poject_FOMSDataSet8TableAdapters.TableAdapterManager.UpdateDeletedRows(Food_Order_MS.Poject_FOMSDataSet8,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Food_Order_MS.Poject_FOMSDataSet8TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Food_Order_MS.Poject_FOMSDataSet8TableAdapters.TableAdapterManager.UpdateAll(Food_Order_MS.Poject_FOMSDataSet8)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet8TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Food_Order_MS.Poject_FOMSDataSet8TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
 </members>
 </doc>

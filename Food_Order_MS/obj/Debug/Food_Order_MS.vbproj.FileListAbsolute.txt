@@ -1,38 +1,23 @@
-C:\Users\Sarad\Desktop\vb.net\New project\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.vbproj.AssemblyReference.cache
-C:\Users\Sarad\Desktop\vb.net\New project\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.Resources.resources
-C:\Users\Sarad\Desktop\vb.net\New project\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.vbproj.GenerateResource.cache
-C:\Users\Sarad\Desktop\vb.net\New project\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.vbproj.CoreCompileInputs.cache
-C:\Users\Sarad\Desktop\vb.net\New project\Food_Order_Management_System\Food_Order_MS\bin\Debug\Food_Order_MS.exe.config
-C:\Users\Sarad\Desktop\vb.net\New project\Food_Order_Management_System\Food_Order_MS\bin\Debug\Food_Order_MS.exe
-C:\Users\Sarad\Desktop\vb.net\New project\Food_Order_Management_System\Food_Order_MS\bin\Debug\Food_Order_MS.pdb
-C:\Users\Sarad\Desktop\vb.net\New project\Food_Order_Management_System\Food_Order_MS\bin\Debug\Food_Order_MS.xml
-C:\Users\Sarad\Desktop\vb.net\New project\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.exe
-C:\Users\Sarad\Desktop\vb.net\New project\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.xml
-C:\Users\Sarad\Desktop\vb.net\New project\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.pdb
-C:\Users\Sarad\Desktop\vb.net\New project\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.Admin_form.resources
-C:\Users\Sarad\Desktop\vb.net\New project\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.User_form.resources
-C:\Users\Sarad\Desktop\vb.net\New project\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.Food_Items.resources
-C:\Users\Sarad\Desktop\vb.net\New project\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.LoginForm.resources
-C:\Users\Sarad\Desktop\vb.net\New project\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.Register_form.resources
-C:\Users\Sarad\Desktop\vb.net\New project\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.Items_Form.resources
-C:\Users\Sarad\Desktop\vb.net\New project\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.Transaction_Form.resources
-C:\Users\Sarad\Desktop\vb.net\New project\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.Stable_form.resources
 C:\Users\achar\OneDrive\Desktop\Food_Order_Management_System\Food_Order_MS\bin\Debug\Food_Order_MS.exe.config
 C:\Users\achar\OneDrive\Desktop\Food_Order_Management_System\Food_Order_MS\bin\Debug\Food_Order_MS.exe
 C:\Users\achar\OneDrive\Desktop\Food_Order_Management_System\Food_Order_MS\bin\Debug\Food_Order_MS.pdb
 C:\Users\achar\OneDrive\Desktop\Food_Order_Management_System\Food_Order_MS\bin\Debug\Food_Order_MS.xml
 C:\Users\achar\OneDrive\Desktop\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.vbproj.AssemblyReference.cache
-C:\Users\achar\OneDrive\Desktop\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.Admin_form.resources
-C:\Users\achar\OneDrive\Desktop\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.Food_Items.resources
 C:\Users\achar\OneDrive\Desktop\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.LoginForm.resources
 C:\Users\achar\OneDrive\Desktop\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.Register_form.resources
-C:\Users\achar\OneDrive\Desktop\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.Items_Form.resources
 C:\Users\achar\OneDrive\Desktop\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.Resources.resources
-C:\Users\achar\OneDrive\Desktop\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.Stable_form.resources
-C:\Users\achar\OneDrive\Desktop\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.Transaction_Form.resources
-C:\Users\achar\OneDrive\Desktop\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.User_form.resources
 C:\Users\achar\OneDrive\Desktop\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.vbproj.GenerateResource.cache
 C:\Users\achar\OneDrive\Desktop\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.vbproj.CoreCompileInputs.cache
 C:\Users\achar\OneDrive\Desktop\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.exe
 C:\Users\achar\OneDrive\Desktop\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.xml
 C:\Users\achar\OneDrive\Desktop\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.pdb
+C:\Users\achar\OneDrive\Desktop\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.Admin_Panel_Form.resources
+C:\Users\achar\OneDrive\Desktop\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.Admin_Panel_ItemsForm.resources
+C:\Users\achar\OneDrive\Desktop\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.User_Panel_TablesForm.resources
+C:\Users\achar\OneDrive\Desktop\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.Admin_Panel_TablesForm.resources
+C:\Users\achar\OneDrive\Desktop\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.Admin_Panel_TransactionForm.resources
+C:\Users\achar\OneDrive\Desktop\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.User_Panel_Form.resources
+C:\Users\achar\OneDrive\Desktop\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.User_Panel_CartForm.resources
+C:\Users\achar\OneDrive\Desktop\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.Admin_Panel_AddCategoryForm.resources
+C:\Users\achar\OneDrive\Desktop\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.Admin_Panel_AddCategoryItemForm.resources
+C:\Users\achar\OneDrive\Desktop\Food_Order_Management_System\Food_Order_MS\obj\Debug\Food_Order_MS.Admin_Panel_AddCategoryTableForm.resources

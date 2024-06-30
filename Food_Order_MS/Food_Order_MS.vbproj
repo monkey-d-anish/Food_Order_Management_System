@@ -73,35 +73,98 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Admin_form.Designer.vb">
-      <DependentUpon>Admin_form.vb</DependentUpon>
+    <Compile Include="Admin_Panel_AddCategoryForm.Designer.vb">
+      <DependentUpon>Admin_Panel_AddCategoryForm.vb</DependentUpon>
     </Compile>
-    <Compile Include="Admin_form.vb">
+    <Compile Include="Admin_Panel_AddCategoryForm.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Food Items.Designer.vb">
-      <DependentUpon>Food Items.vb</DependentUpon>
+    <Compile Include="Admin_Panel_AddCategoryItemForm.Designer.vb">
+      <DependentUpon>Admin_Panel_AddCategoryItemForm.vb</DependentUpon>
     </Compile>
-    <Compile Include="Food Items.vb">
+    <Compile Include="Admin_Panel_AddCategoryItemForm.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.vb">
+    <Compile Include="Admin_Panel_AddCategoryTableForm.Designer.vb">
+      <DependentUpon>Admin_Panel_AddCategoryTableForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Panel_AddCategoryTableForm.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.vb">
-      <DependentUpon>Form1.vb</DependentUpon>
+    <Compile Include="Admin_Panel_Form.Designer.vb">
+      <DependentUpon>Admin_Panel_Form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Panel_Form.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form2.Designer.vb">
-      <DependentUpon>Form2.vb</DependentUpon>
+    <Compile Include="Poject_FOMSDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Poject_FOMSDataSet.xsd</DependentUpon>
     </Compile>
-    <Compile Include="Form2.vb">
+    <Compile Include="Poject_FOMSDataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Poject_FOMSDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Poject_FOMSDataSet2.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Poject_FOMSDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Poject_FOMSDataSet3.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Poject_FOMSDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Poject_FOMSDataSet4.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Poject_FOMSDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Poject_FOMSDataSet5.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Poject_FOMSDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Poject_FOMSDataSet6.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Poject_FOMSDataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Poject_FOMSDataSet7.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Poject_FOMSDataSet7.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Poject_FOMSDataSet8.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Poject_FOMSDataSet8.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="User_Panel_CartForm.Designer.vb">
+      <DependentUpon>User_Panel_CartForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="User_Panel_CartForm.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Items_Form.Designer.vb">
-      <DependentUpon>Items_Form.vb</DependentUpon>
+    <Compile Include="LoginForm.vb">
+      <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Items_Form.vb">
+    <Compile Include="LoginForm.Designer.vb">
+      <DependentUpon>LoginForm.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegisterForm.Designer.vb">
+      <DependentUpon>RegisterForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RegisterForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Panel_ItemsForm.Designer.vb">
+      <DependentUpon>Admin_Panel_ItemsForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Panel_ItemsForm.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
@@ -120,40 +183,56 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <Compile Include="Stable_form.Designer.vb">
-      <DependentUpon>Stable_form.vb</DependentUpon>
+    <Compile Include="sqlModule.vb" />
+    <Compile Include="User_Panel_TablesForm.Designer.vb">
+      <DependentUpon>User_Panel_TablesForm.vb</DependentUpon>
     </Compile>
-    <Compile Include="Stable_form.vb">
+    <Compile Include="User_Panel_TablesForm.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Transaction_Form.Designer.vb">
-      <DependentUpon>Transaction_Form.vb</DependentUpon>
+    <Compile Include="Admin_Panel_TablesForm.Designer.vb">
+      <DependentUpon>Admin_Panel_TablesForm.vb</DependentUpon>
     </Compile>
-    <Compile Include="Transaction_Form.vb">
+    <Compile Include="Admin_Panel_TablesForm.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="User_form.Designer.vb">
-      <DependentUpon>User_form.vb</DependentUpon>
+    <Compile Include="Admin_Panel_TransactionForm.Designer.vb">
+      <DependentUpon>Admin_Panel_TransactionForm.vb</DependentUpon>
     </Compile>
-    <Compile Include="User_form.vb">
+    <Compile Include="Admin_Panel_TransactionForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User_Panel_Form.Designer.vb">
+      <DependentUpon>User_Panel_Form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="User_Panel_Form.vb">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Admin_form.resx">
-      <DependentUpon>Admin_form.vb</DependentUpon>
+    <EmbeddedResource Include="Admin_Panel_AddCategoryForm.resx">
+      <DependentUpon>Admin_Panel_AddCategoryForm.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Food Items.resx">
-      <DependentUpon>Food Items.vb</DependentUpon>
+    <EmbeddedResource Include="Admin_Panel_AddCategoryItemForm.resx">
+      <DependentUpon>Admin_Panel_AddCategoryItemForm.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.vb</DependentUpon>
+    <EmbeddedResource Include="Admin_Panel_AddCategoryTableForm.resx">
+      <DependentUpon>Admin_Panel_AddCategoryTableForm.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form2.resx">
-      <DependentUpon>Form2.vb</DependentUpon>
+    <EmbeddedResource Include="Admin_Panel_Form.resx">
+      <DependentUpon>Admin_Panel_Form.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Items_Form.resx">
-      <DependentUpon>Items_Form.vb</DependentUpon>
+    <EmbeddedResource Include="User_Panel_CartForm.resx">
+      <DependentUpon>User_Panel_CartForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegisterForm.resx">
+      <DependentUpon>RegisterForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Panel_ItemsForm.resx">
+      <DependentUpon>Admin_Panel_ItemsForm.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
@@ -161,14 +240,17 @@
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
     </EmbeddedResource>
-    <EmbeddedResource Include="Stable_form.resx">
-      <DependentUpon>Stable_form.vb</DependentUpon>
+    <EmbeddedResource Include="User_Panel_TablesForm.resx">
+      <DependentUpon>User_Panel_TablesForm.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Transaction_Form.resx">
-      <DependentUpon>Transaction_Form.vb</DependentUpon>
+    <EmbeddedResource Include="Admin_Panel_TablesForm.resx">
+      <DependentUpon>Admin_Panel_TablesForm.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="User_form.resx">
-      <DependentUpon>User_form.vb</DependentUpon>
+    <EmbeddedResource Include="Admin_Panel_TransactionForm.resx">
+      <DependentUpon>Admin_Panel_TransactionForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_Panel_Form.resx">
+      <DependentUpon>User_Panel_Form.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
@@ -182,6 +264,105 @@
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
     <None Include="App.config" />
+    <None Include="Poject_FOMSDataSet.xsc">
+      <DependentUpon>Poject_FOMSDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Poject_FOMSDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Poject_FOMSDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Poject_FOMSDataSet.xss">
+      <DependentUpon>Poject_FOMSDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Poject_FOMSDataSet1.xsc">
+      <DependentUpon>Poject_FOMSDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Poject_FOMSDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Poject_FOMSDataSet1.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Poject_FOMSDataSet1.xss">
+      <DependentUpon>Poject_FOMSDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Poject_FOMSDataSet2.xsc">
+      <DependentUpon>Poject_FOMSDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Poject_FOMSDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Poject_FOMSDataSet2.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Poject_FOMSDataSet2.xss">
+      <DependentUpon>Poject_FOMSDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Poject_FOMSDataSet3.xsc">
+      <DependentUpon>Poject_FOMSDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="Poject_FOMSDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Poject_FOMSDataSet3.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Poject_FOMSDataSet3.xss">
+      <DependentUpon>Poject_FOMSDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="Poject_FOMSDataSet4.xsc">
+      <DependentUpon>Poject_FOMSDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="Poject_FOMSDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Poject_FOMSDataSet4.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Poject_FOMSDataSet4.xss">
+      <DependentUpon>Poject_FOMSDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="Poject_FOMSDataSet5.xsc">
+      <DependentUpon>Poject_FOMSDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="Poject_FOMSDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Poject_FOMSDataSet5.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Poject_FOMSDataSet5.xss">
+      <DependentUpon>Poject_FOMSDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="Poject_FOMSDataSet6.xsc">
+      <DependentUpon>Poject_FOMSDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="Poject_FOMSDataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Poject_FOMSDataSet6.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Poject_FOMSDataSet6.xss">
+      <DependentUpon>Poject_FOMSDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="Poject_FOMSDataSet7.xsc">
+      <DependentUpon>Poject_FOMSDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="Poject_FOMSDataSet7.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Poject_FOMSDataSet7.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Poject_FOMSDataSet7.xss">
+      <DependentUpon>Poject_FOMSDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="Poject_FOMSDataSet8.xsc">
+      <DependentUpon>Poject_FOMSDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="Poject_FOMSDataSet8.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Poject_FOMSDataSet8.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Poject_FOMSDataSet8.xss">
+      <DependentUpon>Poject_FOMSDataSet8.xsd</DependentUpon>
+    </None>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
